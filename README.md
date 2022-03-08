@@ -8,7 +8,7 @@ description: https://foliio.io/
 
 Foliio is a cross-chain portfolio monitoring platform that aggregates wallet balances and liquidity provisions into a unified dashboard. It allows users to monitor their digital assets in a central location without sacrificing anonymity.
 
-![foliio.io](.gitbook/assets/image.png)
+![foliio dashboard](<.gitbook/assets/image (5).png>)
 
 ### SaaS + DApp
 
@@ -32,8 +32,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [configuring-an-account.md](guides/configuring-an-account.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}

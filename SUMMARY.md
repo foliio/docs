@@ -9,7 +9,6 @@
 * [Alpha Testing](guides/alpha-testing.md)
 * [Activating a subscription](guides/activating-a-subscription.md)
 * [Configuring an account](guides/configuring-an-account.md)
-* [Advanced permissions](guides/advanced-permissions.md)
 
 ## Contracts
 

@@ -30,4 +30,6 @@ Your positions will now appear in the Dashboard
 
 ![](<../.gitbook/assets/image (3).png>)
 
+**The demo address:** 0x6ba14b6207897a9b18dfba397f500060098f3927
+
 **Good to know:** You can always custom edit your positions by going into Accounts --> Account Name and clicking the network you wish to modify
